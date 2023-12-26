@@ -1,4 +1,5 @@
-#  Mean and variance of a discrete  distribution
+#DATE
+#EXPNO:1  Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -77,6 +78,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
 # Output : 
+![image](https://github.com/Deepikaprabakaran/Mean-and-Variance/assets/154896682/426386df-f71f-4d01-bdba-ad450d38e140)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
